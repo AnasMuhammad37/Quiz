@@ -1,2 +1,2 @@
-# Quiz
-Smit Project
+# Project
+Project
